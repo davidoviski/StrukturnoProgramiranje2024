@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "StrukturnoProgramiranje2024",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.1-Debug-374b3931a55f6c2e787f.json",
+					"name" : "1.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.2-Debug-e9c077a379d40a6338f2.json",
+					"name" : "1.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.1-Debug-eb08e2ead68bac904570.json",
+					"name" : "2.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.2-Debug-2a5567a640f3a9dc55dc.json",
+					"name" : "2.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.3-Debug-73755aa93a53c733db03.json",
+					"name" : "2.3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.4-Debug-5814ce8576b68b7b7378.json",
+					"name" : "2.4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.5-Debug-a3b7c917a330b3eef001.json",
+					"name" : "2.5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.6-Debug-61645c8f0d6116d35cbc.json",
+					"name" : "2.6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/DAVIDOVSKI/CLionProjects/StrukturnoProgramiranje2024/cmake-build-debug",
+		"source" : "C:/Users/DAVIDOVSKI/CLionProjects/StrukturnoProgramiranje2024"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
