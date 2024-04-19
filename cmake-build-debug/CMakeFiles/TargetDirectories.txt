@@ -6,5 +6,7 @@ C:/Users/DAVIDOVSKI/CLionProjects/StrukturnoProgramiranje2024/cmake-build-debug/
 C:/Users/DAVIDOVSKI/CLionProjects/StrukturnoProgramiranje2024/cmake-build-debug/CMakeFiles/2.4.dir
 C:/Users/DAVIDOVSKI/CLionProjects/StrukturnoProgramiranje2024/cmake-build-debug/CMakeFiles/2.5.dir
 C:/Users/DAVIDOVSKI/CLionProjects/StrukturnoProgramiranje2024/cmake-build-debug/CMakeFiles/2.6.dir
+C:/Users/DAVIDOVSKI/CLionProjects/StrukturnoProgramiranje2024/cmake-build-debug/CMakeFiles/2.7.dir
+C:/Users/DAVIDOVSKI/CLionProjects/StrukturnoProgramiranje2024/cmake-build-debug/CMakeFiles/2.8.dir
 C:/Users/DAVIDOVSKI/CLionProjects/StrukturnoProgramiranje2024/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/DAVIDOVSKI/CLionProjects/StrukturnoProgramiranje2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir
